@@ -41,13 +41,13 @@ Follow these instructions to set up the project locally and run it on your machi
     streamlit run app.py
 
 ## Usage
-  Enter a text description of the music style or mood you want to generate.
-  Click the "Generate Music" button.
-  Listen to the generated music and experiment with different inputs.
+  - Enter a text description of the music style or mood you want to generate.
+  - Click the "Generate Music" button.
+  - Listen to the generated music and experiment with different inputs.
 
 ## Acknowledgements
-Meta's Audiocraft library : https://github.com/facebookresearch/audiocraft
-Streamlit : https://streamlit.io/
+- Meta's Audiocraft library : https://github.com/facebookresearch/audiocraft
+- Streamlit : https://streamlit.io/
 
 ## Contact
 For any questions or inquiries, please contact abhi123gajul@gmail.com.
