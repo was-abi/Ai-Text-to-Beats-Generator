@@ -32,9 +32,11 @@ Follow these instructions to set up the project locally and run it on your machi
    cd your-repo-name
 
 2. Install the required python packages
+    ```python
     pip install -e .
 
 3. Run the application
+    ```python
     streamlit run app.py
 
 ## Usage
