@@ -19,9 +19,9 @@ Follow these instructions to set up the project locally and run it on your machi
 
 ### Prerequisites
 
-- Python [version]
-- Git [version]
-- [Any other prerequisites]
+- Python
+- Git
+- Streamlit
 
 ### Installation
 
@@ -32,11 +32,12 @@ Follow these instructions to set up the project locally and run it on your machi
    cd your-repo-name
 
 2. Install the required python packages
-    ```python
+
+   ```bash
     pip install -e .
 
-3. Run the application
-    ```python
+4. Run the application
+    ```bash
     streamlit run app.py
 
 ## Usage
